@@ -1,6 +1,6 @@
 # Sentry-Audio-Backups
 
-本项目用于备份 **Lenovo Chromebook Sentry (Kabylake)** 在 Linux (如 MX Linux) 环境下的音频修复配置文件与原厂固件。
+本项目用于备份 **Lenovo Thinkpad 13 Chromebook Sentry (Kabylake)** 在 Linux (如 MX Linux) 环境下的音频修复配置文件与原厂固件。
 
 这些文件提取自官方 Recovery 镜像：`chromeos_15393.58.0_sentry_recovery_stable-channel_mp-v2`。
 
