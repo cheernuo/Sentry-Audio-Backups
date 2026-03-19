@@ -12,7 +12,7 @@
 
 ## 📂 文件说明
 - `/firmware`: 存放 DSP 固件（包含 `dfw_sst.bin` 和 `dsp_fw_kbl_v*.bin`）。
-- `/ucm2`: 存放 ALSA Use Case Manager 配置文件。
+- `/ucm`: 存放 ALSA Use Case Manager 配置文件。
 
 ## 🚀 关键修复指令 (备忘)
 如果在 Linux 下识别到声卡但无声，需手动开启核心路由开关：
